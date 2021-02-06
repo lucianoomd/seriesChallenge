@@ -5,3 +5,4 @@
 3 - Run the command "react-native run-android" or "yarn run android";
 4 - If the server did not start run the command "yarn start" or "npm start"
 
+The PIN set to the app is 111111
